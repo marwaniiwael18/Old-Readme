@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oumayma-cherif&label=Profile%20views&color=0e75b6&style=flat" alt="marwaniiwael18" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=marwaniiwael18&label=Profile%20views&color=0e75b6&style=flat" alt="marwaniiwael18" /> </p>
 
 <h1 align="center">Hi 👋, I'm Marwani Wael</h1>
 <h3 align="center">IT Engineering Student</h3>
