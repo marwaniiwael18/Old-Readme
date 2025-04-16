@@ -1,7 +1,15 @@
+<img align="right" src="https://github.com/user-attachments/assets/aecd2943-6203-4da0-882e-eed88365cbd3" alt="coding" width="200" />
 
-### Hi there, I'm <a href="https://www.marwaniwael.me/" target="_blank" title="Marwani Wael">Marwani Wael</a> 👋  
-<img src="https://github.com/user-attachments/assets/aecd2943-6203-4da0-882e-eed88365cbd3" alt="coding" align="right" width="150" style="margin: 0 0 10px 10px;" />
+### Hi there, I'm <a href="https://www.marwaniwael.me/" target="_blank" title="Marwani Wael">Marwani Wael</a> 👋
 
+[![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://x.com/wael93186)
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/wael-marwani)
+[![Facebook](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg)](https://www.facebook.com/World.Wide.Server08/)
+[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://www.instagram.com/waeel_marouanii/)
+[![YouTube](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg)](https://www.youtube.com/@WaelMarouanii)
+[![Discord](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg)](https://discord.com/channels/@me)
+
+</br>
 
 <p align="left">
 <a href="https://x.com/wael93186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wael_marwanii" height="30" width="40" /></a>
