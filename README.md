@@ -1,24 +1,36 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marwaniiwael18&label=Profile%20views&color=0e75b6&style=flat" alt="marwaniiwael18" /> </p>
-<img align="right" alt="Coding" width="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmFtbmcycDF1MzF0dXZqcno4YTV5NjMza3g3eWx2dmIxa2VzNWV5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">
+ ![coding](https://github.com/user-attachments/assets/aecd2943-6203-4da0-882e-eed88365cbd3)
 
-<h1 align="center">Hi 👋, I'm Marwani Wael</h1>
-<h3 align="center">IT Engineering Student</h3>
+### Hi there, I'm <a href="https://www.marwaniwael.me/" target="_blank" title="Marwani Wael">Marwani Wael</a> 👋
 
-- 🧠 I’m currently learning **Flutter**
-
-- 📫 How to reach me **wael.marwani@esprit.tn**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/wael-marwani-/](https://www.linkedin.com/in/wael-marwani-/)
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/wael_marwanii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wael_marwanii" height="30" width="40" /></a>
+<a href="https://x.com/wael93186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wael_marwanii" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/wael marwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wael marwani" height="30" width="40" /></a>
-<a href="https://fb.com/marouanii wael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="marouanii wael" height="30" width="40" /></a>
-<a href="https://instagram.com/waeel_marouanii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="waeel_marouanii" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/wael marwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wael marwani" height="30" width="40" /></a>
-<a href="https://discord.gg/wolf_killer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wolf_killer" height="30" width="40" /></a>
+<a href="https://www.facebook.com/World.Wide.Server08/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="marouanii wael" height="30" width="40" /></a>
+<a href="[https://instagram.com/waeel_marouanii](https://www.instagram.com/waeel_marouanii/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="waeel_marouanii" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@WaelMarouanii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wael marwani" height="30" width="40" /></a>
+<a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wolf_killer" height="30" width="40" /></a>
 </p>
+
+</br>
+
+## Glad to see you here!
+
+<img align="right" alt="Marwani Wael" src="images/coding.gif" width="320px" />
+
+Love interacting with the community, sharing knowledge, and learning new things.
+
+**Talking about personal stuff:**
+
+- 👨 I’m Marwani Wael (Louu).
+- 😄 Pronouns: he/him/his.
+- 📧 How to reach me: marwaniwaelwork@gmail.com
+- 💬 discord: louyongebwahdou_63108
+- 🌐 Website: https://www.marwaniwael.me/
+
+## 🤝 Let's Connect! 
+
+I'm always excited to connect with fellow developers and tech enthusiasts! 
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/wael-marwani-/) - don't forget to mention you found me through GitHub! 😊
 
 <h3 align="left">Languages and Tools:</h3>
 
