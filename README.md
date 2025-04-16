@@ -1,5 +1,3 @@
-<img align="right" src="https://github.com/user-attachments/assets/aecd2943-6203-4da0-882e-eed88365cbd3" alt="coding" width="200" />
-
 ### Hi there, I'm <a href="https://www.marwaniwael.me/" target="_blank" title="Marwani Wael">Marwani Wael</a> 👋
 
 <p align="left">
