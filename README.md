@@ -1,6 +1,6 @@
- ![coding](https://github.com/user-attachments/assets/aecd2943-6203-4da0-882e-eed88365cbd3)
 
 ### Hi there, I'm <a href="https://www.marwaniwael.me/" target="_blank" title="Marwani Wael">Marwani Wael</a> 👋
+<img src="https://github.com/user-attachments/assets/aecd2943-6203-4da0-882e-eed88365cbd3" alt="coding" align="right" width="150" style="margin: 0 0 10px 10px;" />
 
 <p align="left">
 <a href="https://x.com/wael93186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wael_marwanii" height="30" width="40" /></a>
